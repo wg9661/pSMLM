@@ -1,4 +1,4 @@
-This is a minimum matlab code for pSMLM PSF fitting.
+This is a minimal matlab code for pSMLM PSF fitting.
 A small dataset will be provided to demo the code.
 All software were built and tested on Matlab R2022b and Windows 11
 Please run the main.m for starting the code
