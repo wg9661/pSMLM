@@ -8,6 +8,6 @@ All codes were built and tested on Matlab R2022b and Windows 11.
 
 Please run the main.m for starting the test.
 
-Please change your PSF size when fitting your own data and arrange the channels in the order 0-90-45-135. 
+Please change your PSF size when fitting your own data and arrange channels in the order. 
 
-The psf size should be odd and all images should be centered.
+The psf size should be odd and all images are centered.
